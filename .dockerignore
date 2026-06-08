@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+dist
+dist/
+node_modules/
+yarn.lock
+npm-debug.log
+.env
+.env.local
+postgres/
+/postgres
